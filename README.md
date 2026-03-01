@@ -5,5 +5,5 @@ Basic Python programs for beginners
 - Hello World
 
 ## Author
-Sherina  
+Raja Sherina  
 3rd Year CSE Student
