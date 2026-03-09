@@ -12,6 +12,7 @@ This repository contains basic Python programs created while learning Python.
 - comments_example.py – Demonstrates the use of comments in Python
 - print_numbers_1_to_10.py – Prints numbers from 1 to 10 using a for loop
 - while_loop.py – Prints numbers from 1 to 5 using a while loop
+- multiplication_table.py – Prints the multiplication table of a number
 
 ## How to Run the Programs
 
