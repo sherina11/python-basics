@@ -14,7 +14,8 @@ This repository contains basic Python programs created while learning Python.
 - while_loop.py – Prints numbers from 1 to 5 using a while loop
 - multiplication_table.py – Prints the multiplication table of a number
 - factorial.py – Calculates factorial of a number
-
+- prime_number.py – Checks whether a number is prime
+  
 ## How to Run the Programs
 
 1. Install Python
