@@ -16,6 +16,7 @@ This repository contains basic Python programs created while learning Python.
 - factorial.py – Calculates factorial of a number
 - prime_number.py – Checks whether a number is prime
 - string_length.py – Finds the length of a string entered by the user
+- reverse_string.py – Reverses the string entered by the user
   
 ## How to Run the Programs
 
