@@ -17,6 +17,7 @@ This repository contains basic Python programs created while learning Python.
 - prime_number.py – Checks whether a number is prime
 - string_length.py – Finds the length of a string entered by the user
 - reverse_string.py – Reverses the string entered by the user
+- count_vowels.py – Counts the number of vowels in a string
   
 ## How to Run the Programs
 
