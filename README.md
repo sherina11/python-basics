@@ -18,6 +18,7 @@ This repository contains basic Python programs created while learning Python.
 - string_length.py – Finds the length of a string entered by the user
 - reverse_string.py – Reverses the string entered by the user
 - count_vowels.py – Counts the number of vowels in a string
+- sum_of_list.py – Finds the sum of elements in a list
   
 ## How to Run the Programs
 
