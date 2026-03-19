@@ -19,6 +19,7 @@ This repository contains basic Python programs created while learning Python.
 - reverse_string.py – Reverses the string entered by the user
 - count_vowels.py – Counts the number of vowels in a string
 - sum_of_list.py – Finds the sum of elements in a list
+- max_in_list.py – Finds the largest number in a list
   
 ## How to Run the Programs
 
