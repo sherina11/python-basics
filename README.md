@@ -20,7 +20,8 @@ This repository contains basic Python programs created while learning Python.
 - count_vowels.py – Counts the number of vowels in a string
 - sum_of_list.py – Finds the sum of elements in a list
 - max_in_list.py – Finds the largest number in a list
--  min_in_list.py – Finds the smallest number in a list
+- min_in_list.py – Finds the smallest number in a list
+- list_sort.py – Sorts elements in a list
   
 ## How to Run the Programs
 
