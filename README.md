@@ -22,6 +22,7 @@ This repository contains basic Python programs created while learning Python.
 - max_in_list.py – Finds the largest number in a list
 - min_in_list.py – Finds the smallest number in a list
 - list_sort.py – Sorts elements in a list
+- number_guess.py – Simple number guessing game
   
 ## How to Run the Programs
 
