@@ -23,6 +23,7 @@ This repository contains basic Python programs created while learning Python.
 - min_in_list.py – Finds the smallest number in a list
 - list_sort.py – Sorts elements in a list
 - number_guess.py – Simple number guessing game
+- login_check.py – Simple username and password validation
   
 ## How to Run the Programs
 
