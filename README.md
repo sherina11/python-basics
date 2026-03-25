@@ -25,6 +25,7 @@ This repository contains basic Python programs created while learning Python.
 - number_guess.py – Simple number guessing game
 - login_check.py – Simple username and password validation
 - function_example.py – Demonstrates use of functions in Python
+- input_validation.py – Handles invalid user input using try-excep
   
 ## How to Run the Programs
 
