@@ -26,6 +26,7 @@ This repository contains basic Python programs created while learning Python.
 - login_check.py – Simple username and password validation
 - function_example.py – Demonstrates use of functions in Python
 - input_validation.py – Handles invalid user input using try-excep
+- file_handling.py – Demonstrates file read and write operations
   
 ## How to Run the Programs
 
