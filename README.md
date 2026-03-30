@@ -30,6 +30,7 @@ This repository contains basic Python programs created while learning Python.
 - file_check.py – Checks whether a file exists in the system
 - contact_book.py – Simple contact management mini project
 - contact_book_file.py – Contact book with file storage functionality
+- password_generator.py – Generates a random secure password
   
 ## How to Run the Programs
 
