@@ -32,7 +32,7 @@ This repository contains basic Python programs created while learning Python.
 - contact_book_file.py – Contact book with file storage functionality
 - password_generator.py – Generates a random secure password
   
-## How to Run the Programs
+### How to Run the Programs
 
 1. Install Python
 2. Open terminal or command prompt
@@ -45,7 +45,7 @@ Example:
 
 python even_odd.py
 
-## Author
+#### Author
 
 Raja Sherina T  
 CSE Student  
