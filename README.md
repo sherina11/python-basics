@@ -31,6 +31,7 @@ This repository contains basic Python programs created while learning Python.
 - contact_book.py – Simple contact management mini project
 - contact_book_file.py – Contact book with file storage functionality
 - password_generator.py – Generates a random secure password
+- banking_system.py - Check account balance
   
 ### How to Run the Programs
 
